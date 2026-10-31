@@ -1,0 +1,8 @@
+{
+  "appId": "com.fx.davinci",
+  "appName": "FX Da Vinci",
+  "webDir": "dist",
+  "android": {
+    "backgroundColor": "#09090b"
+  }
+}
