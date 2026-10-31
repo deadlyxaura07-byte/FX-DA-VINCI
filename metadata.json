@@ -1,0 +1,6 @@
+{
+  "name": "FX Verse Editing Studio",
+  "description": "All-in-one creative editing platform combining AI-assisted auto video creation with professional multitrack timeline, color grading, audio suite, and 3D effects.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
